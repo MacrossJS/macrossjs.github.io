@@ -1,2 +1,1 @@
-# MacrossJS.github.io
-Play game
+# macrossjs.github.io
